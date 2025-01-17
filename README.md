@@ -45,13 +45,13 @@ Criador de imagens Copilot：
 - [Imagem Copilot](https://copilot.microsoft.com/images/create/crie-uma-imagem-sobre-inclusc3a3o-financeira-e-social/1-67883eeb1c014789be334e505443ee56?id=48naez3%2bj4qPkWWFefv%2byA%3d%3d&view=detailv2&idpp=genimg&thId=OIG3.pTjYEmrUiYQk6ekmbgyy&skey=0TL5s8nOdRgb7KxSfnLnMgU9HeihxM2YfEd1UeKpi9k&FORM=GCRIDP)
 - [imagem capa](https://github.com/Kelysilq/e-book-IA-/blob/main/Capa-Cap%C3%ADtulos_Ebbok.jpg)
 - [ebook gerado durante as aulas - Rumo à Inclusão: Bancarizando as classes D e E no Brasil](https://github.com/Kelysilq/e-book-IA-/blob/main/Rumo%20%C3%A0%20Inclus%C3%A3o%20Bancarizando%20as%20classes%20D%20e%20E%20no%20Brasil.pdf)
-- [templets powerpoint]
+- [templet powerpoint](https://github.com/Kelysilq/e-book-IA-/blob/main/Rumo%20%C3%A0%20Inclus%C3%A3o%20Bancarizando%20as%20classes%20D%20e%20E%20no%20Brasil.pptx)
 
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como powerpoint e word para registrar os comandos.
 
-## 🔦Referência ao Especialista, muito bom!
+## 🔦Referência ao Especialista (obrigada ao [instrutor](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook)!)
 [Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook)
 Tech Educator, DIO
 
