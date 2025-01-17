@@ -1,5 +1,8 @@
 # Projeto EBOOK Gerado por I.A.s
 
+<div align="center">
+<img src="https://github.com/Kelysilq/e-book-IA-/blob/main/Capa-Cap%C3%ADtulos_Ebbok.jpg" alt="capa" width="300">
+</div>
 
  > ℹ️ **NOTE:** Este é o repositório foi desenvolvido durante o Bootcamp curso CAIXA - IA Generativa com Microsoft Copilot no qual fui aluna na plataforma da [DIO](https://dio.me)
 
@@ -14,6 +17,7 @@ O resultado ficou fantástico 😍
 - [ChatGPT](https://chat.openai.com/) 
 - [ Criador de imagens Copilot](https://copilot.microsoft.com/images/create?cc=st&msockid=3513dbe3604c66de2bd9ce95612e6713])
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Microsoft Designer](https://designer.microsoft.com/)
 
 ## 🧠 Prompts
 
@@ -34,12 +38,14 @@ Criador de imagens Copilot：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via Criador de imagens Copilot
+- Imagens geradas via Criador de imagens Copilot e Microsoft Designer
 
 ## 📚 Materiais
 
 - [Imagem Copilot](https://copilot.microsoft.com/images/create/crie-uma-imagem-sobre-inclusc3a3o-financeira-e-social/1-67883eeb1c014789be334e505443ee56?id=48naez3%2bj4qPkWWFefv%2byA%3d%3d&view=detailv2&idpp=genimg&thId=OIG3.pTjYEmrUiYQk6ekmbgyy&skey=0TL5s8nOdRgb7KxSfnLnMgU9HeihxM2YfEd1UeKpi9k&FORM=GCRIDP)
+- [imagem capa](https://github.com/Kelysilq/e-book-IA-/blob/main/Capa-Cap%C3%ADtulos_Ebbok.jpg)
 - [ebook gerado durante as aulas - Rumo à Inclusão: Bancarizando as classes D e E no Brasil](https://github.com/Kelysilq/e-book-IA-/blob/main/Rumo%20%C3%A0%20Inclus%C3%A3o%20Bancarizando%20as%20classes%20D%20e%20E%20no%20Brasil.pdf)
+- [templets powerpoint]
 
 ## 🛠️ Instruções de execução
 
