@@ -45,5 +45,8 @@ Criador de imagens Copilot：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como powerpoint e word para registrar os comandos.
 
+## 🔦Referência ao Especialista, muito bom!
+[Felipe Aguiar](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook)
+Tech Educator, DIO
 
 ⌨️ com muito ❤️ por [Kelysilq](https://github.com/Kelysilq)
